@@ -1,5 +1,8 @@
 # TargetData
 The repository contains a list of crt.sh data on assets of bug-bounty programs
+If you want to get updated data from bug bounty programs checkout 
+# CHAOS 
+[@Chaos By ProjectDiscovery](https://chaos.projectdiscovery.io/)
 ## Now Beautified
 Credits: [@Nahamsec](https://twitter.com/NahamSec)
 Current Programs::
